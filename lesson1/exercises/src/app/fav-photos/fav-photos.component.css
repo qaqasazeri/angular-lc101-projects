@@ -1,9 +1,11 @@
 h3 {
    color: brown;
+   font:25px Times New Roman;
 }
 
 img {
-
+   width:100px;
+   height:100px;
 }
 
 .photos {

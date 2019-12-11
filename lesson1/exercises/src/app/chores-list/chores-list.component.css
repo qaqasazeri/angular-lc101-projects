@@ -1,0 +1,13 @@
+h3{
+    color:red;
+    text-align: center;
+    font:25px Times New Roman;
+    margin: 5px;
+    
+}
+ul{
+    font: 15px Times New Roman;
+    color:red;
+    text-decoration: underline;
+    margin:2px;
+}
